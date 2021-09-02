@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	operations1 := [3]int64{54, 22, -113}
+
 	var operations[3]int64
 
 	operations[0] = -12
