@@ -31,4 +31,9 @@ func main() {
 
 	last := operations[2]
 	fmt.Println(last)
+
+	var operations3 []int64
+	operations3 = append(operations3, 10)
+	operations3 = append(operations3, 20)
+	operations3 = append(operations3, 510)
 }
